@@ -1,0 +1,10 @@
+Package: com.suu.slide2kill
+Name: Slide2Kill
+Depends: mobilesubstrate
+Version: 0.0.6
+Architecture: iphoneos-arm
+Description: Slide the icon in switcher to kill app(s).
+Maintainer: Suu
+Author: Suu
+Section: Tweaks
+Installed-Size: 64
